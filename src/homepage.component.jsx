@@ -5,7 +5,7 @@ const HomePage = ()=>{
    return( <div className="homepage">
       
         <div className="directory-menu">
-            <div className="menu-item">
+        <div className="menu-item">
                 <div className="content">
                     <h2 className="title">Hats</h2>
                     <span className="subtitle">Shop Now</span>
